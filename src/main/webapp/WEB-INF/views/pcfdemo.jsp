@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>PivotalOneTwo Demo</title>
+<title>PivotalOne Demo</title>
 <meta http-equiv="Cache-Control"
 	content="no-store, no-cache, must-revalidate, max-age=0">
 <link href="resources/css/retail.css" rel="stylesheet">
@@ -97,7 +97,7 @@
     <div class="container">
     	<div class="nav-bar">
 	        <div class="logo">
-	          <img src="resources/img/BestRetailInc_Logo.png" alt="Best Retail, Inc.">
+	          <img src="resources/img/BestRetailInc_Logo.pn" alt="Best Retail, Inc.">
 	        </div>
 	        <div class="nav">
 	        	<input type="button" value="Orders US Heat Map" class="activate nav-link" >
