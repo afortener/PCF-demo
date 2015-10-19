@@ -1,6 +1,7 @@
 ---
 applications:
-- name: vantiv
+- name: workshop
+  host: workshop-${random-word}
   memory: 512M 
   instances: 2
   path: ./target/pcfdemo.war
